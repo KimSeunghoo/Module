@@ -1,6 +1,6 @@
 #!name=Remove LINE ADs
 #!desc=LINE広告を削除
-#!system=IOS
+#!system=ios
 
 [Rule]
 URL-REGEX,^https:\/\/a\.line\.me\/er\/lads\/v\d\/ei\?,REJECT-DROP
