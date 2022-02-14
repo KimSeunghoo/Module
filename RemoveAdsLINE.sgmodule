@@ -1,5 +1,5 @@
 #!name=Remove LINE ADs
-#!desc=LINE広告を削除
+#!desc=Remove LINE ADs
 #!system=ios
 
 [Rule]
