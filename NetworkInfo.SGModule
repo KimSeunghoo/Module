@@ -1,0 +1,12 @@
+#!name=Network Info Panel
+#!desc=@KimSeunghoo
+#!system=ios
+
+[Panel]
+NetInfoPanel=title="",content="",style=info,script-name=NetworkCheck.JS,update-interval=1
+
+[Script]
+NetworkCheck.JS=script-path=https://raw.githubusercontent.com/KimSeunghoo/Module/main/NetworkCheck.JS,type=generic
+
+[Host]
+ip-api.com = 1.1.1.1
